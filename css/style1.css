@@ -1,0 +1,156 @@
+#VivodAdminsInfa{
+  margin-right:5%;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+
+#DelLogin{
+  width: 300px;
+}
+
+#AddRole{
+  width: 300px;
+}
+
+#AddPass{
+  width: 300px;
+}
+
+#AddName{
+  width: 300px;
+}
+
+#AddLogin{
+  width: 300px;
+}
+
+#VivodInfa{
+  font-family: cursive;
+  font-size: 20px;
+}
+
+#textPoisk{
+  margin-top: 5%;
+  margin-left: center;
+  font-family: cursive;
+  font-size: 28px;
+}
+
+#Kontakt2{
+  margin-top: 1%;
+  font-size: 28px;
+  font-family: fantasy;
+}
+
+#Kontakt{
+  margin-top: 15%;
+  font-size: 28px;
+  font-family: fantasy;
+}
+
+
+#otzivName{
+  margin-top: 10px;
+  font-family: cursive;
+  font-size: 18px;
+}
+
+#SpisokOtzivovButton{
+  display:block;
+  position: relative;
+  margin-top: 20px;
+}
+
+.head_info{
+display:block;
+position: relative;
+z-index: -10;
+}
+
+#otziv{
+  color:#ffffff;
+  background: #2a2d36;
+}
+
+#VivodOtziv{
+  color: 	#ffffff;
+   background: #2a2d36;
+  margin-top: 10px;
+  position: relative;
+  resize: none;
+}
+
+select{
+  position: relative;
+  resize: none;
+}
+
+#textBall{
+  font-family: sans-serif;
+    font-size: 18px;
+}
+
+
+textarea {
+    resize: none;
+}
+
+#otzivtext{
+  margin-top: 15%;
+  display:block;
+  font-size: 58px;
+  font-family: sans-serif;
+}
+
+#Avatar{
+  display:block;
+  margin-top:100px;
+}
+
+#AccountHello2{
+  display:block;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+#AccountHello{
+  display:block;
+  font-size: 58px;
+  font-family: sans-serif;
+}
+
+
+#ButtonExit{
+  margin: auto;
+  display: block;
+	margin-top: 25px;
+	position: relative;
+}
+
+
+#UserName {
+  display:block;
+  margin-top: 20%;
+  font-size: 58px;
+  font-family: cursive;
+}
+
+form{
+  display:block;
+  position: relative;
+  left: 30%;
+  width: 500px;
+}
+
+
+#MainLogo{
+  display:block;
+  margin-top:100px;
+}
+
+#MainForms{
+  display:block;
+  text-align:center;
+  margin-top:100px;
+}
